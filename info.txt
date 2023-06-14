@@ -3,3 +3,4 @@ notejs
 devops
 aws architecture
 python scripting
+python
